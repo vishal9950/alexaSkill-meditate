@@ -17,7 +17,7 @@ const stepsToMeditate = [
   'In <break time="2s" /> and out. <break time="2s" />',
   'In <break time="2s" /> and out. <break time="5s" />',
   'Now <break time="1s" /> not losing your momentum, <break time="1s" /> think how you can make the rest of your day productive <break time="0.5s" /> and useful. <break time="10s" />',
-  'I\'ll ask you to open your eyes, but <break time="1s" /> when you do <break time="0.5s" /> you will feel refreshed <break time="0.5s" /> and energized. <break time="2s" />',
+  'I\'ll ask you to open your eyes, and <break time="1s" /> when you do <break time="0.5s" /> you will feel refreshed <break time="0.5s" /> and energized. <break time="2s" />',
   'You will do your best <break time="0.5s" /> to make good use of the rest of the time in this day. <break time="2s" />',
   'You can open your eyes now. <break time="1s" />',
   'Take care! and be Inspired!',
