@@ -1,0 +1,17 @@
+{
+  "name": "alexaSkill-meditate",
+  "version": "1.0.0",
+  "description": "Alexa skill to meditate in order to boost productivity",
+  "main": "index.js",
+  "repository": "https://github.com/vishal9950/alexaSkill-meditate",
+  "author": "Vishal Vasnani",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^5.4.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  },
+  "dependencies": {
+    "ask-sdk": "^2.0.7"
+  }
+}
